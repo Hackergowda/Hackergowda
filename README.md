@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**Hackergowda/Hackergowda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Gowda_07_bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
